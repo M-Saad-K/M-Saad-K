@@ -1,9 +1,9 @@
 # Hi I am Saad 👋:
 🎓 Year 3 MEng Computer & Electronic Systems 
 🏫 University of Strathclyde
-🤖 Robotics Co-lead @ Google Developer Student Clubs
-📡 Student Member, IEEE Instrumentation & Measurement Soceity (IEEE IMS)
-🔧 Works with electronics projects, embedded systems, and robotics
+📡 Student Member, Institution of Engineering and Technology
+🤖 Interests in AI and Machine learning systems and their involvment in applications to improve user experience and cilent efficency 
+🔧 Works on Electronics and Software projects at University and in extra cirriculars with Arduino and Raspberry Pi
 
 
 # 💻 Tech Stack:
