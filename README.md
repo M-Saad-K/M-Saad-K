@@ -23,7 +23,7 @@
 
 - 🌐 **[Personal Website](ComingSoon)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/muhammad-saad-khan-510935371/)**
-- 🛍️ **[Fiverr Profile](ComingSoon)**
+- 🛍️ **[Fiverr Profile](https://www.fiverr.com/saad_creator?public_mode=true)**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=M-Saad-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
