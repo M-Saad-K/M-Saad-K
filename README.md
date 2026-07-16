@@ -5,7 +5,7 @@
 \
 📡 Student Member, Institution of Engineering and Technology\
 \
-🤖 Interests in AI and Machine learning systems and their involvment in applications to improve user experience and cilent efficency \
+🤖 Interests in AI, Machine learning systems, and AI engineering applications\
 \
 🔧 Works on Electronics and Software projects at University and in extra cirriculars with Arduino and Raspberry Pi
 
