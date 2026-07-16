@@ -21,10 +21,13 @@
 
 
 # 📧 Contact Me:
-Press on the Icon\
-[🔗](ComingSoon) Personal Website\
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-khan-510935371/)\ LinkedIn
-[🔗]() Fiverr\
+Press on the Icon
+
+[🔗](ComingSoon) Personal Website
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-khan-510935371/) LinkedIn
+
+[🔗](ComingSoon) Fiverr
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=M-Saad-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
