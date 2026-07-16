@@ -21,7 +21,7 @@
 
 # 📧 Contact Me:
 - 🌐 **[Personal Website](ComingSoon)**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/muhammad-saad-khan-510935371/)**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]**(https://www.linkedin.com/in/muhammad-saad-khan-510935371/)**
 - 🛍️ **[Fiverr Profile](ComingSoon)**
 
 ## 🏆 GitHub Trophies
