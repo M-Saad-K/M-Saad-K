@@ -19,15 +19,17 @@
 ![](https://streak-stats.demolab.com/?user=M-Saad-K&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=M-Saad-K&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 # 📧 Contact Me:
-Press on the Icon
 
-[🔗](ComingSoon) Personal Website
+### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-khan-510935371/) LinkedIn
+Click an icon below to visit my profiles and websites:
 
-[🔗](ComingSoon) Fiverr
+🌐 **[Personal Website](ComingSoon)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-khan-510935371/)
+
+🛍️ **[Fiverr Profile](ComingSoon)**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=M-Saad-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
