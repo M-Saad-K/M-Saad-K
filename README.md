@@ -20,8 +20,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=M-Saad-K&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 📧 Contact Me:
+
 - 🌐 **[Personal Website](ComingSoon)**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]**(https://www.linkedin.com/in/muhammad-saad-khan-510935371/)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/muhammad-saad-khan-510935371/)**
 - 🛍️ **[Fiverr Profile](ComingSoon)**
 
 ## 🏆 GitHub Trophies
