@@ -1,6 +1,6 @@
 # Hi I am Saad 👋:
 🎓 Year 3 MEng Computer & Electronic Systems 
-:school: University of Strathclyde
+🏫 University of Strathclyde
 🤖 Robotics Co-lead @ Google Developer Student Clubs
 📡 Student Member, IEEE Instrumentation & Measurement Soceity (IEEE IMS)
 🔧 Works with electronics projects, embedded systems, and robotics
