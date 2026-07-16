@@ -1,6 +1,6 @@
 # Hi, I am Saad 👋:
-🎓 Year 3 MEng Computer & Electronic Systems \
-🏫 University of Strathclyde\
+🎓 Year 3 MEng Computer & Electronic Systems \\
+🏫 University of Strathclyde\\
 📡 Student Member, Institution of Engineering and Technology\
 🤖 Interests in AI and Machine learning systems and their involvment in applications to improve user experience and cilent efficency \
 🔧 Works on Electronics and Software projects at University and in extra cirriculars with Arduino and Raspberry Pi\
