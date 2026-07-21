@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=M-Saad-K&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=M-Saad-K)<br/>
+![](https://github-readme-streak-stats-eight.vercel.app?user=M-Saad-K)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=M-Saad-K&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
